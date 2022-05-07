@@ -16,8 +16,19 @@ h1 {
 }
 
 #name, #surname, #email {
-    margin: 1rem 0;
+    margin: 1rem 0 0;
     width: 12rem;
     height: 2rem;
 }
 
+#first-dropdown{
+    padding: 5px;
+}
+
+#first-radio, #second-radio, #third-radio, #fourth-radio{
+    margin: 10px;
+}
+
+#first-check, #second-check, #third-check, #fourth-check {
+    margin: 10px;
+}
